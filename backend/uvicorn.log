@@ -1,0 +1,27 @@
+INFO:     Started server process [16249]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+INFO:     10.204.17.1:41010 - "GET /api/check-auth HTTP/1.1" 200 OK
+INFO:     10.204.17.1:41020 - "GET /api/videos HTTP/1.1" 200 OK
+INFO:     10.204.17.1:41032 - "GET /api/articles HTTP/1.1" 200 OK
+INFO:     10.204.17.1:60922 - "OPTIONS /api/login HTTP/1.1" 200 OK
+INFO:     10.204.17.1:60930 - "POST /api/login HTTP/1.1" 200 OK
+INFO:     10.204.17.1:44010 - "GET /api/videos HTTP/1.1" 200 OK
+INFO:     10.204.17.1:44024 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     10.204.17.1:60150 - "POST /api/videos HTTP/1.1" 200 OK
+INFO:     10.204.17.1:59622 - "GET /api/videos HTTP/1.1" 200 OK
+INFO:     10.204.17.1:59638 - "GET /api/check-auth HTTP/1.1" 200 OK
+INFO:     10.204.17.1:59636 - "GET /api/articles HTTP/1.1" 200 OK
+INFO:     10.204.17.1:57748 - "POST /api/login HTTP/1.1" 200 OK
+INFO:     10.215.241.1:58834 - "POST /api/login HTTP/1.1" 200 OK
+INFO:     10.215.241.1:59082 - "GET /api/check-auth HTTP/1.1" 200 OK
+INFO:     10.215.241.1:59098 - "GET /api/videos HTTP/1.1" 200 OK
+INFO:     10.215.241.1:59104 - "GET /api/articles HTTP/1.1" 200 OK
+INFO:     10.215.241.1:39820 - "GET /api/check-auth HTTP/1.1" 200 OK
+INFO:     10.215.241.1:39812 - "GET /api/videos HTTP/1.1" 200 OK
+INFO:     10.215.241.1:39816 - "GET /api/articles HTTP/1.1" 200 OK
+INFO:     10.215.241.1:34824 - "OPTIONS /api/login HTTP/1.1" 200 OK
+INFO:     10.215.241.1:34838 - "POST /api/login HTTP/1.1" 200 OK
+INFO:     10.215.241.1:58766 - "GET /api/articles HTTP/1.1" 200 OK
+INFO:     10.215.241.1:58770 - "GET /api/videos HTTP/1.1" 200 OK
