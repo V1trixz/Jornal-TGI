@@ -1,3 +1,6 @@
+# Desenvolvido com muita paixão por Vitor Matias
+Data: 26/05/2025
+
 # Jornal TGI - Projeto Corrigido (Versão 2.0)
 
 ## Resumo das Correções Realizadas
